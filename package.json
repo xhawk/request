@@ -22,7 +22,7 @@
   ],
   "main": "index.js",
   "dependencies": {
-    "qs": "git@github.com:xhawk/node-querystring.git",
+    "qs": "git+ssh://git@github.com:xhawk/node-querystring.git",
     "json-stringify-safe": "~5.0.0",
     "forever-agent": "~0.5.0",
     "node-uuid": "~1.4.0",
